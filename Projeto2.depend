@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1521562151 source:c:\users\fabio\desktop\projeto2\projeto2\main.cpp
+	<iostream>
+	"classes.hpp"
+
+1521562360 c:\users\fabio\desktop\projeto2\projeto2\classes.hpp
+
